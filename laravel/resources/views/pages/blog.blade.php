@@ -2,6 +2,6 @@
 
 @section('content')
   <div class="content">
-    <h1>BLOG</h1>
+    <h1><a href="{{ route ('home') }}">BLOG</a></h1>
   </div>
 @endsection

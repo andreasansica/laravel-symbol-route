@@ -2,6 +2,6 @@
 
 @section('content')
   <div class="content">
-    <h1>ABOUT</h1>
+    <h1> <a href="{{ route('home')}}">ABOUT</a></h1>
   </div>
 @endsection
